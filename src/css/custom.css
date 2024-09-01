@@ -27,9 +27,14 @@
 .hero.hero--primary.heroBanner_src-pages-index-module {
   background-color: #1c1c1c;
 }
+
 .hero__title {
   color: #EBEDF0;
 }
+.hero__subtitle {
+  color: #EBEDF0;
+}
+
 
 .footer {
   background-color: #1c1c1c;
