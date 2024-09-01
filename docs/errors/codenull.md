@@ -12,11 +12,11 @@
 | Ядро | Версия Minecraft | Версия Java |
 | ----------- | ----------- | ----------- |
 | Forge/Fabric для модов | Все | Java 8/17  |
-| Paper/Purpur для плагинов | <1.12 | Java 8  |
+| Paper/Purpur для плагинов | 1.12 и меньше | Java 8  |
 | Paper/Purpur для плагинов | 1.12-1.15 | Java 11  |
 | Paper/Purpur для плагинов | 1.16 | Java 16  |
 | Paper/Purpur для плагинов | 1.17-1.18 | Java 17  |
-| Paper/Purpur для плагинов | >1.19 | Java 22  |
+| Paper/Purpur для плагинов | 1.19 и выше | Java 22  |
 
 
 3. Вернитесь в консоль и запустите сервер
