@@ -58,6 +58,67 @@ const sidebars = {
         type: 'doc',
         id: 'vds/vdspanel',
       },
+      {
+        type: 'doc',
+        id: 'vds/ssh',
+      },
+      {
+        type: 'doc',
+        id: 'vds/reinstall',
+      },
+      {
+        type: 'doc',
+        id: 'vds/fsresize',
+      },
+      
+    ],
+  },
+  {
+    type: 'category',
+    label: '💻 Панель управления',
+    items: [
+      {
+        type: 'doc',
+        id: 'panel/backup',
+      },
+      {
+        type: 'doc',
+        id: 'panel/network',
+      },
+      
+    ],
+  },
+  {
+    type: 'category',
+    label: '⚠️ Устранение ошибок',
+    items: [
+      {
+        type: 'doc',
+        id: 'errors/http',
+      },
+      {
+        type: 'doc',
+        id: 'errors/code0',
+      },
+      {
+        type: 'doc',
+        id: 'errors/code137',
+      },
+      
+    ],
+  },
+  {
+    type: 'category',
+    label: '🌍 Подключение домена',
+    items: [
+      {
+        type: 'doc',
+        id: 'domain/java',
+      },
+      {
+        type: 'doc',
+        id: 'domain/web',
+      },
       
     ],
   },
