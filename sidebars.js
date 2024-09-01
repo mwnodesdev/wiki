@@ -54,6 +54,10 @@ const sidebars = {
         type: 'doc',
         id: '⚡ VDS/buyvds',
       },
+      {
+        type: 'doc',
+        id: '⚡ VDS/vdspanel',
+      },
       
     ],
   },
