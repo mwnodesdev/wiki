@@ -29,15 +29,15 @@ const sidebars = {
     items: [
       {
         type: 'doc',
-        id: '💵 Биллинг/topup',
+        id: 'billing/topup',
       },
       {
         type: 'doc',
-        id: '💵 Биллинг/createserver',
+        id: 'billing/createserver',
       },
       {
         type: 'doc',
-        id: '💵 Биллинг/subdomain',
+        id: 'billing/subdomain',
       },
       
     ],
@@ -48,15 +48,15 @@ const sidebars = {
     items: [
       {
         type: 'doc',
-        id: '⚡ VDS/faq',
+        id: 'vds/faq',
       },
       {
         type: 'doc',
-        id: '⚡ VDS/buyvds',
+        id: 'vds/buyvds',
       },
       {
         type: 'doc',
-        id: '⚡ VDS/vdspanel',
+        id: 'vds/vdspanel',
       },
       
     ],
