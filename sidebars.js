@@ -64,6 +64,10 @@ const sidebars = {
       },
       {
         type: 'doc',
+        id: 'vds/backup',
+      },
+      {
+        type: 'doc',
         id: 'vds/reinstall',
       },
       {
