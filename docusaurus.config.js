@@ -77,7 +77,7 @@ colorMode: {
             label: 'База знаний',
           },
           {
-            href: 'https://github.com/mwnodesdev/wiki',
+            href: 'https://github.com/mwnodesdev/wiki/exit/main/',
             label: 'GitHub',
             position: 'right',
           },
