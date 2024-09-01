@@ -44,7 +44,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/mwnodesdev/wiki/exit/main/',
+            'https://github.com/mwnodesdev/wiki/edit/main/',
         },
         theme: {
           customCss: './src/css/custom.css',
