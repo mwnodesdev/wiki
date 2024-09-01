@@ -29,15 +29,15 @@ const sidebars = {
     items: [
       {
         type: 'doc',
-        id: 'createserver',
+        id: '💵 Биллинг/createserver',
       },
       {
         type: 'doc',
-        id: 'subdomain',
+        id: '💵 Биллинг/subdomain',
       },
       {
         type: 'doc',
-        id: 'topup',
+        id: '💵 Биллинг/topup',
       },
     ],
   },
