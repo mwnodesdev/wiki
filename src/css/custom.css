@@ -20,11 +20,11 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
-.navbar {
-  background-color: #1c1c1c; /* Цвет, соответствующий основному блоку */
+.container {
+  background-color: #1c1c1c;
 }
 
 .footer {
-  background-color: #1c1c1c; /* Цвет, соответствующий основному блоку */
+  background-color: #1c1c1c;
 }
 
