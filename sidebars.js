@@ -98,11 +98,11 @@ const sidebars = {
       },
       {
         type: 'doc',
-        id: 'errors/code0',
+        id: 'errors/codenull',
       },
       {
         type: 'doc',
-        id: 'errors/code137',
+        id: 'errors/codeout',
       },
       
     ],
