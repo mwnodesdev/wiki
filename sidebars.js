@@ -42,6 +42,21 @@ const sidebars = {
       
     ],
   },
+  {
+    type: 'category',
+    label: '⚡ VDS',
+    items: [
+      {
+        type: 'doc',
+        id: '⚡ VDS/faq',
+      },
+      {
+        type: 'doc',
+        id: '⚡ VDS/buyvds',
+      },
+      
+    ],
+  },
   ],
 };
 
