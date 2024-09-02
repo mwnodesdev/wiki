@@ -68,7 +68,7 @@ const sidebars = {
       },
       {
         type: 'doc',
-        id: 'vds/subdomain',
+        id: 'vds/subdomains',
       },
       {
         type: 'doc',
