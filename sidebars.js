@@ -64,6 +64,14 @@ const sidebars = {
       },
       {
         type: 'doc',
+        id: 'vds/settings',
+      },
+      {
+        type: 'doc',
+        id: 'vds/subdomain',
+      },
+      {
+        type: 'doc',
         id: 'vds/backup',
       },
       {
