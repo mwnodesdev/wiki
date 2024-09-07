@@ -64,6 +64,10 @@ const sidebars = {
       },
       {
         type: 'doc',
+        id: 'vds/warp',
+      },
+      {
+        type: 'doc',
         id: 'vds/settings',
       },
       {
