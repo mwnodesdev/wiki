@@ -58,8 +58,8 @@ const config = {
     ({
 colorMode: {
       defaultMode: 'dark', // По умолчанию светлая тема
-      disableSwitch: false, // Включить переключатель темы
-      respectPrefersColorScheme: true, // Использовать системные настройки пользователя
+      disableSwitch: true, // Включить переключатель темы
+      respectPrefersColorScheme: false, // Использовать системные настройки пользователя
     },
       // Replace with your project's social card
       image: 'https://cdn.mwnodes.xyz/files/856VS6.png',
