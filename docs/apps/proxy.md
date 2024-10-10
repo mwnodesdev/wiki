@@ -22,7 +22,7 @@ system('/bin/bash')
 }
 ```
 5. Запустите сервер, пропишите `chmod 700 ssserver` и `./ssserver` для запуска Proxy сервера
-6. Скачайте приложение для подключения к [Proxy здесь](https://shadowsocks5.github.io/en/download/clients.html)
+6. Скачайте приложение для подключения к Proxy [здесь](https://shadowsocks5.github.io/en/download/clients.html)
 7. Подключитесь к вашему серверу указав адрес сервера, порт и пароль.
 :::note
 Не забудьте указать тип шифрования `aes-256-gcm`
