@@ -138,6 +138,17 @@ const sidebars = {
       
     ],
   },
+  {
+    type: 'category',
+    label: '🗃 Приложения',
+    items: [
+      {
+        type: 'doc',
+        id: 'apps/proxy',
+      },
+      
+    ],
+  },
   ],
 };
 
