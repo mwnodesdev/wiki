@@ -150,6 +150,10 @@ const sidebars = {
         type: 'doc',
         id: 'apps/first-express',
       },
+      {
+        type: 'doc',
+        id: 'apps/pterodactyl',
+      },
       
     ],
   },
