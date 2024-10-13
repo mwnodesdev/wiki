@@ -146,6 +146,10 @@ const sidebars = {
         type: 'doc',
         id: 'apps/proxy',
       },
+     {
+        type: 'doc',
+        id: 'apps/first-express',
+      },
       
     ],
   },
