@@ -152,6 +152,10 @@ const sidebars = {
       },
       {
         type: 'doc',
+        id: 'apps/first-flask',
+      },
+      {
+        type: 'doc',
         id: 'apps/pterodactyl',
       },
       
