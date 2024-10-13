@@ -158,6 +158,10 @@ const sidebars = {
         type: 'doc',
         id: 'apps/pterodactyl',
       },
+      {
+        type: 'doc',
+        id: 'apps/first-discord-bot',
+      },
       
     ],
   },
