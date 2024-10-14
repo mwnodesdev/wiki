@@ -162,6 +162,10 @@ const sidebars = {
         type: 'doc',
         id: 'apps/first-discord-bot',
       },
+     {
+        type: 'doc',
+        id: 'apps/discord-user-slasb',
+      },
       
     ],
   },
