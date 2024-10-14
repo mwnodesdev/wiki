@@ -164,7 +164,7 @@ const sidebars = {
       },
      {
         type: 'doc',
-        id: 'apps/discord-user-slasb',
+        id: 'apps/discord-user-slash',
       },
       
     ],
