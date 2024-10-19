@@ -80,13 +80,16 @@ const sidebars = {
       },
       {
         type: 'doc',
+        id: 'vds/rescue',
+      },
+      {
+        type: 'doc',
         id: 'vds/reinstall',
       },
       {
         type: 'doc',
         id: 'vds/fsresize',
       },
-      
     ],
   },
   {
