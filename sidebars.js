@@ -96,6 +96,10 @@ const sidebars = {
     type: 'category',
     label: '💻 Панель управления',
     items: [
+     {
+        type: 'doc',
+        id: 'panel/changever',
+      },
       {
         type: 'doc',
         id: 'panel/backup',
