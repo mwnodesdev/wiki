@@ -151,6 +151,14 @@ const sidebars = {
     items: [
       {
         type: 'doc',
+        id: 'apps/pterodactyl',
+      },
+      {
+        type: 'doc',
+        id: 'apps/pteronode',
+      },
+      {
+        type: 'doc',
         id: 'apps/proxy',
       },
      {
@@ -160,10 +168,6 @@ const sidebars = {
       {
         type: 'doc',
         id: 'apps/first-flask',
-      },
-      {
-        type: 'doc',
-        id: 'apps/pterodactyl',
       },
       {
         type: 'doc',
